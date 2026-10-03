@@ -1,0 +1,14 @@
+.DS_Store
+.env.save
+.env
+
+node_modules/
+.env
+.DS_Store
+*.log
+coverage/
+
+package.json
+package-lock.json
+make-deck.mjs
+*.pptx
